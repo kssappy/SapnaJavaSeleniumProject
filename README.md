@@ -6,7 +6,7 @@ This automation framework is designed for automating web applications using Sele
 Setup Requirements:
 Before automating browsers, ensure the following dependencies are correctly installed:
 
-Java JDK (version 17)
+Java JDK (version 17).
 Maven (version 3.1.2)
 TestNG (version 7.8.0)
 Apache POI (version 4.1.2) for handling Excel files
